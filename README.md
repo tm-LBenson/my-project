@@ -1,12 +1,11 @@
 # my-project
-Day 3 assignment 
 
+Day 3 Code
 
 ## Contributors
 
 - Lewis
 
-## Sources 
+## Sources
 
 GitHub.com
-
