@@ -1,6 +1,6 @@
 # my-project
 
-Day 3 Code
+Day 3 Demo
 
 ## Contributors
 
