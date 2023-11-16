@@ -2,12 +2,10 @@
 
 Day 3 Demo
 
-
 ## Contributors
 
 - Lewis
 
-## Sources 
+## Sources
 
 GitHub.com
-
