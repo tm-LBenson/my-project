@@ -1,5 +1,6 @@
 # my-project
-Day 3 assignment 
+
+Day 3 Demo
 
 
 ## Contributors
